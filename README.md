@@ -2,9 +2,9 @@
 ## as Data Scientist at id/x partners
 *Project purpose:* Build a classification model that can predict credit risk with the aim of minimizing the risk of borrowing credit in a lending company.
 
-*Some of the steps:*
-<ul>
+*Some of the steps:*<br>
 The target data is divided into two parts according to the loan_status information:
+<ul>
   <li>Charged_Off (bad debt)</li>
   <li>Fully_Paid (debt is fully paid)</li>
 </ul>
