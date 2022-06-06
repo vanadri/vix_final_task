@@ -4,6 +4,7 @@
 
 <br>
 The target data is divided into two parts according to the loan_status information:
+<br>
  - Charged_Off (bad debt),
  - Fully_Paid (debt is fully paid).
 
