@@ -4,8 +4,8 @@
 
 *Some of the steps:*
 <br>
-The target data is divided into two parts according to the loan_status information:
 <ul>
+  The target data is divided into two parts according to the loan_status information:
   <li>Charged_Off (bad debt)</li>
   <li>Fully_Paid (debt is fully paid)</li>
 </ul>
