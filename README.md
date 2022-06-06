@@ -3,6 +3,7 @@
 *Project purpose:* Build a classification model that can predict credit risk with the aim of minimizing the risk of borrowing credit in a lending company.
 
 *Some of the steps:*
+<br>
 The target data is divided into two parts according to the loan_status information:
 <ul>
   <li>Charged_Off (bad debt)</li>
